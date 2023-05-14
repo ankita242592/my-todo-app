@@ -1,4 +1,4 @@
-FILEPATH = r'C:\Users\ankit\PycharmProjects\Todoapp\todos.txt'
+FILEPATH = r'C:\Users\ankit\PycharmProjects\webapp_1\todos.txt'
 
 def get_todos(filepath=FILEPATH):
     with open(filepath,'r') as file_local:
